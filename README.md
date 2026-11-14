@@ -1,12 +1,6 @@
 hi, i'm julie, a product designer.
 
-i want to make tools that feel like a place you come back to, not just something that gets the task done faster.
-i care about the small moments in an interaction, so that people feel the care and enjoy using what i make, maybe even try something new and find a bit of themselves in it.
-
-嗨，我是 Julie，产品设计师。
-
-想做让人愿意回来的工具，而不只是更快把事做完。
-在意交互里每个细小的瞬间，希望用的人能感觉到用心、用得开心，也愿意试点新的东西，在里面认出自己。
+building warm, inclusive things that make everyone feel a little more creative, and a little more themselves.
 
 [X @JulieZ1122](https://x.com/JulieZ1122) · [portfolio](https://luhan.juliezhang1122.chatgpt.site/)
 
