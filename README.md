@@ -8,7 +8,7 @@ building warm, inclusive things that make everyone feel a little more creative, 
 
 ### [My Cozy DSH](https://github.com/juliiiiiiiu/my-cozy-dsh)
 
-<a href="https://github.com/juliiiiiiiu/my-cozy-dsh"><img src="https://raw.githubusercontent.com/juliiiiiiiu/my-cozy-dsh/main/cover.png" width="600" /></a>
+<a href="https://x.com/JulieZ1122/status/2119845890299252943"><img src="cozy-dsh.gif" width="600" /></a>
 
 a warm hand-drawn little room for DeepSeek Harness, with a desk lamp, plants, a sleepy westie and an orange cat keeping you company.
 给 DeepSeek Harness 换上一间手绘小屋：台灯、绿植，还有一只打盹的西高地和陪你干活的橘猫。
